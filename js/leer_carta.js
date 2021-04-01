@@ -19,8 +19,6 @@ function traerDatos() {
             tarjeta.innerHTML = '';
 
 
-
-
             for (let item of datos) {
 
                 precios = ``;

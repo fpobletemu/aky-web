@@ -2,7 +2,7 @@
   {
     "ID": "1",
     "Titulo": "Atún, Palta, Cebollín",
-    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.600 </b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
     "Tipo": "roll",
     "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
     "Precio": ["3.600","4.200","4.400"],
