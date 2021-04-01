@@ -25,7 +25,7 @@ function traerDatos() {
                 precios = ``;
                 string_final =``;
 
-                for (let index = 0; index < item.Envoltura.length; index++) {
+                for (let index = 0; index < 3; index++) {
                     
                     precios = `<tr>
                           
