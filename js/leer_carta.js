@@ -9,11 +9,13 @@ function traerDatos() {
 
     xhttp.send();
 
+    
+
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
 
 
-            let datos = JSON.parse(this.responseText)
+            let datos = JSON.parse(this.responseText);
             
 
             let tarjeta = document.querySelector('#tarjeta');
@@ -25,17 +27,14 @@ function traerDatos() {
                 precios = ``;
                 string_final =``;
 
-                for (let index = 0; index < 3; index++) {
+                cont = 0;
+
+                for (let env of item.Envoltura) {
                     
-                    precios = `<tr>
-                          
-                    <td colspan="3">${item.Envoltura[index]}</td>
-                    <td>$${item.Precio[index]}</td>
-                    
-                  </tr>`;
+                    precios = `<tr><td colspan="3">${item.Envoltura[cont]}</td><td>$${item.Precio[cont]}</td></tr>`;
 
                     string_final = string_final + precios;
-
+                    cont++;
                 }
 
 
