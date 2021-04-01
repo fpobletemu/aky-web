@@ -749,7 +749,7 @@ section {
 }
 
 .portfolio .portfolio-img-bg {
-  background-image: url('/images/default-card.png');
+  background-image: url('images/default-card.png');
   background-size: cover;
   background-position: 50%;
   height: auto;

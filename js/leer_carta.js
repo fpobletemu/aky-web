@@ -21,20 +21,23 @@ function traerDatos() {
             let tarjeta = document.querySelector('#tarjeta');
             tarjeta.innerHTML = '';
 
+            
 
             for (let item of datos) {
 
                 precios = ``;
                 string_final =``;
 
-                cont = 0;
+                
 
-                for (let env of item.Envoltura) {
-                    
-                    precios = `<tr><td colspan="3">${item.Envoltura[cont]}</td><td>$${item.Precio[cont]}</td></tr>`;
+                arrayPrecios = item.Precio
+
+               for (let index = 0; index < arrayPrecios.length; index++) {
+                 
+                    precios = `<tr><td colspan="3">${arrayPrecios[index]}</td><td>$${arrayPrecios[index]}</td></tr>`;
 
                     string_final = string_final + precios;
-                    cont++;
+                    
                 }
 
 
