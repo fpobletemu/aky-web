@@ -1,0 +1,1084 @@
+[
+  {
+    "ID": "1",
+    "Titulo": "Atún, Palta, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.600 </b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.600","4.200","4.400"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "2",
+    "Titulo": "Atún, Queso Crema, Ciboulette",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.500","4.100","4.300"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "3",
+    "Titulo": "Camarón, Palta, Champiñón Furai",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.700</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.300</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.500</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.700","4.300","4.500"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "4",
+    "Titulo": "Camarón, Queso Crema, Ciboulette",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.600","4.200","4.400"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "5",
+    "Titulo": "Camarón, Queso Crema, Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.800</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.400</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.600</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.800","4.400","4.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "6",
+    "Titulo": "Camarón, Palta, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.500","4.100","4.300"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "7",
+    "Titulo": "Camarón Furai, Palta, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.600","4.200","4.400"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "8",
+    "Titulo": "Camarón Furai, Queso Crema, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.400","4.000","4.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "9",
+    "Titulo": "Camarón Furai, Queso Crema, Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.800</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.400</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.600</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.800","4.400","4.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "10",
+    "Titulo": "Carne, Queso Crema, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.300</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.900</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.100</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.300","3.900","4.100"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "11",
+    "Titulo": "Carne, Mozarella, Pimentón",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.400","4.000","4.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "12",
+    "Titulo": "Champiñon Furai y Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.200","3.800","4.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "13",
+    "Titulo": "Champiñon Furai, Queso Crema, Ciboulette",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.200","3.800","4.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "14",
+    "Titulo": "Kanikama y Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.100</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.700</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $3.900</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.100","3.700","3.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "15",
+    "Titulo": "Kanikama y Queso Crema",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.100</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.700</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $3.900</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.100","3.700","3.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "16",
+    "Titulo": "Palmito, Champiñon Furai, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.200","3.800","4.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "17",
+    "Titulo": "Palmito, Palta, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.300</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.900</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.100</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.300","3.900","4.100"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "18",
+    "Titulo": "Pollo, Palta, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.400","4.000","4.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "19",
+    "Titulo": "Pollo, Queso Crema, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.400","4.000","4.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "20",
+    "Titulo": "Pollo, Queso Crema, Champiñon Furai",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.400","4.000","4.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "21",
+    "Titulo": "Pollo Furai, Queso Crema, Ciboulette",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.500","4.200","4.400"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "22",
+    "Titulo": "Pollo, Queso Crema, Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.500","4.100","4.300"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "23",
+    "Titulo": "Salmón, Palta, Cebollín",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.600","4.200","4.400"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "24",
+    "Titulo": "Salmón, Queso Crema, Ciboulette",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.500","4.100","4.300"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "25",
+    "Titulo": "Salmón, Queso Crema, Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.900</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.500</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.700</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["3.900","4.500","4.700"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "26",
+    "Titulo": "Salmón, Queso Crema, Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $4.100</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.700</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.900</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["4.100","4.700","4.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "27",
+    "Titulo": "Salmón, Camarón, Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $4.300</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.900</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $5.100</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["4.300","4.900","5.100"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "28",
+    "Titulo": "Salmón, Atún, Palta",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $4.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $5.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $5.200</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["4.400","5.000","5.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "29",
+    "Titulo": "Pulpo, Queso Crema, Ciboulette",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $4.000</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.600</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.800</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["4.000","4.600","4.800"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "30",
+    "Titulo": "Pulpo, Camarón, Queso Crema",
+    "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $4.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $5.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $5.300</b></li>",
+    "Tipo": "roll",
+    "Envoltura": ["Envuelto en Sésamo o Ciboulette","Envuelto en Palta, Tempura, Masago o Queso Crema","Envuelto en Atún, Salmón, o Pollo Tempura"],
+    "Precio": ["4.500","5.100","5.300"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "31",
+    "Titulo": "Salmón, Queso Crema, Camarón",
+    "Descripcion": " <li>Envuelto en Palta con salsa Acevichada <b> - $4.600</b></li>",
+    "Tipo": "especialidades",
+    "Envoltura": ["Envuelto en Palta con salsa Acevichada"],
+    "Precio": ["4.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "32",
+    "Titulo": "Pollo Furai, Queso Crema, Palta",
+    "Descripcion": " <li>Envuelto en Pollo con salsa de Champiñon <b> - $4.900</b></li>",
+    "Tipo": "especialidades",
+    "Envoltura": ["Envuelto en Pollo con salsa de Champiñon"],
+    "Precio": ["4.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "33",
+    "Titulo": "Camaron, Palta, Cebollín, Queso Crema",
+    "Descripcion": " <li>Envuelto en Salmon con salsa de Cilantro y Palta <b> - $5.500</b></li>",
+    "Tipo": "especialidades",
+    "Envoltura": ["Envuelto en Salmon con salsa de Cilantro y Palta"],
+    "Precio": ["5.500"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "34",
+    "Titulo": "Atún, Salmón, Ciboulette, Queso Crema",
+    "Descripcion": " <li>Envuelto en Palta con salsa Acevichada <b> - $5.600</b></li>",
+    "Tipo": "especialidades",
+    "Envoltura": ["Envuelto en Palta con salsa Acevichada"],
+    "Precio": ["5.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "35",
+    "Titulo": "Camarón, Salmón, Queso Crema, Cebollín",
+    "Descripcion": " <li>Envuelto en Tempura <b> - $5.600</b></li>",
+    "Tipo": "sin-arroz",
+    "Envoltura": ["Envuelto en Tempura"],
+    "Precio": ["5.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "36",
+    "Titulo": "Camarón Furai, Kanikama, Queso Crema, Cebollín",
+    "Descripcion": " <li>Envuelto en Palta <b> - $5.200</b></li>",
+    "Tipo": "sin-arroz",
+    "Envoltura": ["Envuelto en Palta"],
+    "Precio": ["5.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "37",
+    "Titulo": "Pollo Furai, Kanikama, Queso Crema, Cebollín",
+    "Descripcion": " <li>Envuelto en Palta <b> - $4.700</b></li>",
+    "Tipo": "sin-arroz",
+    "Envoltura": ["Envuelto en Palta"],
+    "Precio": ["4.700"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "38",
+    "Titulo": "Pollo, Palta, Queso Crema, Champiñon Furai",
+    "Descripcion": " <li>Envuelto en Tempura <b> - $4.900</b></li>",
+    "Tipo": "sin-arroz",
+    "Envoltura": ["Envuelto en Tempura"],
+    "Precio": ["4.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "39",
+    "Titulo": "Salmón o Camarón, Queso Crema",
+    "Descripcion": " <li>Envuelto en Alga Nori <b> - $3.200</b></li>",
+    "Tipo": "hosomaki",
+    "Envoltura": ["Envuelto en Alga Nori"],
+    "Precio": ["3.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "40",
+    "Titulo": "Pollo, Kanikama o Champiñon Furai",
+    "Descripcion": " <li>Envuelto en Alga Nori <b> - $2.500</b></li>",
+    "Tipo": "hosomaki",
+    "Envoltura": ["Envuelto en Alga Nori"],
+    "Precio": ["2.500"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "41",
+    "Titulo": "Champiñon, Carne o Pollo",
+    "Descripcion": " <li>Envuelto en Tempura <b> - $2.900</b></li>",
+    "Tipo": "akymano",
+    "Envoltura": ["Envuelto en Tempura"],
+    "Precio": ["2.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "42",
+    "Titulo": "Salmón o Camarón",
+    "Descripcion": " <li>Envuelto en Tempura <b> - $3.200</b></li>",
+    "Tipo": "akymano",
+    "Envoltura": ["Envuelto en Tempura"],
+    "Precio": ["3.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "43",
+    "Titulo": "Gohan de Pollo, Camarón o Salmón",
+    "Descripcion": " <li><b>$3.900</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["3.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "44",
+    "Titulo": "Yakimeshi Pollo, Camarón o Salmón",
+    "Descripcion": " <li><b>$3.900</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["3.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "45",
+    "Titulo": "Ceviche Reineta",
+    "Descripcion": " <li><b>$3.600</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["3.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "46",
+    "Titulo": "Ceviche Camarón y Salmón",
+    "Descripcion": " <li><b>$5.600</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["5.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "47",
+    "Titulo": "Ceviche Salmón y Atún",
+    "Descripcion": " <li><b>$5.900</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["5.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "48",
+    "Titulo": "Sashimi Salmón",
+    "Descripcion": " <li><b>$4.600</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["4.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "49",
+    "Titulo": "Sashimi Mixto (Atún y Salmón",
+    "Descripcion": " <li><b>$6.600</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["6.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "50",
+    "Titulo": "Nigiris (2 Unidades)",
+    "Descripcion": " <li><b>$2.800</b></li>",
+    "Tipo": "platos",
+    "Envoltura": [""],
+    "Precio": ["2.800"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "51",
+    "Titulo": "Gyoza 5 unidades (Cerdo, Pollo, Verduras o Camarón)",
+    "Descripcion": " <li><b>$2.900</b></li>",
+    "Tipo": "picoteos",
+    "Envoltura": [""],
+    "Precio": ["2.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "52",
+    "Titulo": "Bolitas Aky 5 unidades (Queso Crema, Pollo Tempurizadas)",
+    "Descripcion": " <li><b>$2.500</b></li>",
+    "Tipo": "picoteos",
+    "Envoltura": [""],
+    "Precio": ["2.500"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "53",
+    "Titulo": "Pollos Aky Furai (5 Cortes)",
+    "Descripcion": " <li><b>$3.000</b></li>",
+    "Tipo": "picoteos",
+    "Envoltura": [""],
+    "Precio": ["3.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "54",
+    "Titulo": "Camarón Aky Furai (5 Unidades)",
+    "Descripcion": " <li><b>$3.500</b></li>",
+    "Tipo": "picoteos",
+    "Envoltura": [""],
+    "Precio": ["3.500"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "55",
+    "Titulo": "Mix Apanados (3 Bolitas Aky,3 Pollos Aky Furai y 3 Camarón Aky Furai",
+    "Descripcion": " <li><b>$3.800</b></li>",
+    "Tipo": "picoteos",
+    "Envoltura": [""],
+    "Precio": ["3.800"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P1",
+    "Titulo": "10 Piezas",
+    "Descripcion": "<li>10 Kanikama, queso crema, ciboulette, envuelto en sésamo</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["5.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P2",
+    "Titulo": "30 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Kanikama, queso crema, ciboulette, envuelto en sésamo</li><li>10 Pollo, pimentón, cebollín, envuelto en algo nori tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["7.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P3",
+    "Titulo": "40 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Kanikama, palta, envuelto en sésamo.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura</li><li>10 Pollo, pimentón, cebollín, envuelto en alga nori tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["9.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P4",
+    "Titulo": "50 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Kanikama, palta, envuelto en tempura.</li><li>10 Pollo, pimentón, cebollín, envuelto en alga nori tempurizada.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["10.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P5",
+    "Titulo": "60 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Kanikama, queso crema, cebollín, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en ciboulette.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Pollo, queso crema, cebollín envuelto en tempura.</li><li>10 Pollo, pimentón, cebollín, envuelto en algo nori tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["14.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P6",
+    "Titulo": "70 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Kanikama, queso crema, cebollín, envuelto en tempura.</li><li>Champiñon furai, palta, envuelto en ciboulette.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, pimentón, cebollín, envuelto en algo tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["15.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P7",
+    "Titulo": "80 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en salmón.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Champiñon furai, palta, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, envuelto en tempura.</li><li>Pollo, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en sésamo.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["18.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P8",
+    "Titulo": "100 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, envuelto en salmón.</li><li>Salmón, queso crema, ciboulette, envuelto en palta.</li><li>Pollo, queso crema, cebollín, envuelto en ciboulette.</li><li>10 Pollo, queso crema, envuelto en alga nori.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": ["24.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P9",
+    "Titulo": "20 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["6.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P10",
+    "Titulo": "30 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en palta.</li><li>10 Pollo, queso creoma, cebollín, envuelto en palta.</li><li>10 Salmón, queso crema, ciboulette, envuelto en sésamo.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["9.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P11",
+    "Titulo": "40 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Salmón, queso crema, ciboulette, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["12.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P12",
+    "Titulo": "50 Piezas Premium",
+    "Descripcion": "<li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["15.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P13",
+    "Titulo": "60 Piezas Premium",
+    "Descripcion": "<li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li10 Salmón, queso crema, ciboulette, envuelto en sésamo.></li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["18.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P14",
+    "Titulo": "70 Piezas Premium",
+    "Descripcion": "<li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, cebollín furai, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en ciboulette.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["20.600"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P15",
+    "Titulo": "80 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, queso crema, ciboulette, envuelto en palta.</li><li>10 Camarón, palta, cebollín, envuelto en salmón.</li><li>10 Carane, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>Salmón, queso crema, ciboulette, envuelto en sésamo.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["23.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P16",
+    "Titulo": "100 Piezas Premium",
+    "Descripcion": "<li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, palta, envuelto en sésamo.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Salmón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li><li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Atún, queso crema, ciboulette, envuelto en tempura.</li><li>10 Pollo, queso crema, envuelto en alga nori.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": ["29.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P17",
+    "Titulo": "2 Akymano",
+    "Descripcion": "<li>Akymano de carne, pollo o champiñon. <b>$5.000</b></li>",
+    "Tipo": "promos-a-eleccion",
+    "Precio": ["5.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P18",
+    "Titulo": "3 Rolls a Elección",
+    "Descripcion": "<li>Elección de rolls de la carta entre 1 y el 26. Envoltura en tempura, queso crema o palta. <b>$11.200</b></li>",
+    "Tipo": "promos-a-eleccion",
+    "Precio": ["11.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P19",
+    "Titulo": "20 Piezas Fritas",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en tempura. </li><li>10 Pollo, queso crema, cebollín, envuelto en tempura. </li>",
+    "Tipo": "promos-fritas",
+    "Precio": ["6.200"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P20",
+    "Titulo": "40 Piezas Fritas",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Salmón, queso crema, ciboulette, envuelto en tempura.</li>",
+    "Tipo": "promos-fritas",
+    "Precio": ["12.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P21",
+    "Titulo": "30 Piezas Vegetarianas",
+    "Descripcion": "<li>10 Champiñon furai, palta, cebollín, envuelto en palta.</li><li>10 Palmito, palta, cebollín, envuelto en sésamo.</li><li>10 Pimentón, palta, cebollín, envuelto en alga nori.</li>",
+    "Tipo": "promos-vegetarianas",
+    "Precio": ["9.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P22",
+    "Titulo": "50 Piezas Vegetarianas",
+    "Descripcion": "<li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Palmito, palta, cebollín, envuelto en tempura.</li><li>10 Champiñon furai, palta, queso crema, envuelto en ciboulette.</li><li>10 Palta, queso crema, pimentón, cebollín, envuelto en tempura.</li><li>10 Palmito, champiñon furai, queso crema, envuelto en palta.</li>",
+    "Tipo": "promos-vegetarianas",
+    "Precio": ["15.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "AR",
+    "Titulo": "Armalo a tu gusto",
+    "Descripcion": "<ol><li><strong>Elige una Base</strong><ol><li>Base Sushi (Alga Nori y Arroz) <strong>$1.000</strong></li><li>Base sin arroz (Alga Nori y Queso Crema) <strong>$2.000</strong></li><li>Base Ceviche (Cebolla morada y Limón) <strong>$3.000</strong></li></ol></li><li><strong>Elige los Ingredientes</strong><em>(3 Mínimo)</em><ol><li>Light <em>[Cebollín, Ciboulette o Pimentón]</em> <strong>$400</strong></li><li>Básicos <em>[Camarón, Camaón furai, Champiñon, Champiñon furai, Pollo, Pollo Furai, Kanikama, Palmito, Palta, Queso crema, Mozzarella o Tomate]</em> <strong>$1.000</strong></li><li>Premium <em>[Atún, Pulpo o Salmón]</em> <strong>$1.500</strong></li></ol></li><li><strong>Elige la Envoltura</strong><em>(solo para rolls o sin arroz)</em><ol><li>Sésamo o Ciboulette <strong>$200</strong></li><li>Palta, Queso crema, Tempura o Masago <strong>$600</strong></li><li>Salmón, Atún o Pollo <strong>$800</strong></li></ol></li></ol>",
+    "Tipo": "armalo-a-gusto",
+    "Precio": [],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "EX",
+    "Titulo": "Extras",
+    "Descripcion": "<li>Salsa (acevichada, palta ciboulette, picante, natural)<strong> $1.000</strong></li><li>Salsa Dulce<strong> $500</strong></li><li>Salsa de Soya<strong> $300</strong></li><li>Preparación sin alga<strong> $700</strong></li><ul><li><strong>Despacho</strong><ul><li>desde <strong> $1.000</strong></li></ul></li><li><strong>Bebidas</strong><ul><li>Sin promoción<strong> $1.800</strong></li><li>Con compra de promoción o roll<strong> $1.000</strong></li></ul></li></ul>",
+    "Tipo": "extras",
+    "Precio": [],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  }
+]
