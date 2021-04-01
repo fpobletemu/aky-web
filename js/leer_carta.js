@@ -30,11 +30,12 @@ function traerDatos() {
 
                 
 
-                arrayPrecios = item.Precio
+                arrayPrecios = item.Precio;
+                arrayEnvoltura = item.Envoltura;
 
-               for (let index = 0; index < arrayPrecios.length; index++) {
+               for (let index = 0; index < arrayEnvoltura.length; index++) {
                  
-                    precios = `<tr><td colspan="3">${arrayPrecios[index]}</td><td>$${arrayPrecios[index]}</td></tr>`;
+                    precios = `<tr><td colspan="3">${arrayEnvoltura[index]}</td><td>$${arrayPrecios[index]}</td></tr>`;
 
                     string_final = string_final + precios;
                     
