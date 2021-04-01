@@ -14,7 +14,7 @@ function traerDatos() {
 
 
             let datos = JSON.parse(this.responseText)
-            initMap();
+            
 
             let tarjeta = document.querySelector('#tarjeta');
             tarjeta.innerHTML = '';
