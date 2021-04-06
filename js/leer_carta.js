@@ -113,7 +113,7 @@ function traerDatos() {
         }
 
         if (isprom) {
-          promosCard.innerHTML += `<div class="my-5 col-lg-6 col-md-6 portfolio-item ${item.Tipo}" >
+          promosCard.innerHTML += `<div class="my-5 col-lg-6 col-md-12 col-sm-12 portfolio-item ${item.Tipo}" >
 
           <div class="container">
             <div class="row">
