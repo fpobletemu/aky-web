@@ -45,8 +45,9 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Carta</a></li>
+          <li><a class="nav-link scrollto " href="#">Inicio</a></li>
+          <li><a class="nav-link scrollto " href="#promosCard">Promociones</a></li>
+          <li><a class="nav-link scrollto" href="#carta_sushi">Carta</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -69,37 +70,57 @@
 
   <main id="main">
 
+
+
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
       <div class="container">
 
-        <div class="section-title">
+
+
+
+
+
+        <div id="carta_sushi" class="section-title">
           <h2>Nuestra Carta</h2>
 
         </div>
 
         <div class="row">
-          <div class="col-lg-12">
+          <div class="col-lg-12 scrollmenu">
             <ul id="portfolio-flters">
 
 
-              <li href="#contact" data-filter="*" class="filter-active scrollto">Todos</li>
-              <li data-filter=".roll">Rolls</li>
-              <li data-filter=".especialidades">Especialidades</li>
-              <li data-filter=".sin-arroz">Sin Arroz</li>
-              <li data-filter=".hosomaki">Hosomaki</li>
-              <li data-filter=".akymano">Akymano</li>
-              <li data-filter=".platos">Platos</li>
-              <li data-filter=".picoteos">Picoteos</li>
+              <li data-filter="*" class="filter-active"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Todos</strong></div></li>
+              <li class="" data-filter=".roll"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Rolls</strong></div></li>
+              <li class="" data-filter=".especialidades"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Especialidades</strong></div></li>
+              <li class="" data-filter=".sin-arroz"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Sin Arroz</strong></div></li>
+              <li class="" data-filter=".hosomaki"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Hosomaki</strong></div></li>
+              <li class="" data-filter=".akymano"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Akymano</strong></div></li>
+              <li class="" data-filter=".platos"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Platos</strong></div></li>
+              <li class="" data-filter=".picoteos"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Picoteos</strong></div></li>
+              <li class="" data-filter=".promos-mixtas"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Promos Mixtas</strong></div></li>
+              <li class="" data-filter=".promos-mixtas-premium"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Promos Mixtas Premium</strong></div></li>
+              <li class="" data-filter=".promos-a-eleccion"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Promos a Elección</strong></div></li>
+              <li class="" data-filter=".promos-fritas"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Promos Fritas</strong></div></li>
+              <li class="" data-filter=".promos-vegetarianas"><img src="/images/sushi/filter/promo-mixta-prem.JPG"><div><strong>Promos Vegetarianas</strong></div></li>
             </ul>
           </div>
         </div>
 
-        <div id="carta" class="row portfolio-container">         
 
-        <div id="tarjeta"></div>
 
-      </div>
+        <div id="carta" class="row portfolio-container">
+
+          <div id="tarjeta"></div>
+          <div id="promosCard" class="row"></div>
+
+        </div>
+
+
+        
+
+
 
       </div>
     </section><!-- End Portfolio Section -->
@@ -209,14 +230,14 @@
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  
+
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-  
+
 
 </body>
 

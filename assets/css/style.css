@@ -8,6 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+*{box-sizing: border-box;}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -709,6 +711,14 @@ section {
   text-align: center;
 }
 
+.portfolio #portfolio-flters2 {
+  padding: 0;
+  margin: 0 0 35px 0;
+  list-style: none;
+  text-align: center;
+}
+
+
 .portfolio #portfolio-flters li {
   cursor: pointer;
   margin: 0 15px 15px 0;
@@ -724,12 +734,71 @@ section {
   transition: all 0.3s ease-in-out;
 }
 
+.portfolio #portfolio-flters li img{
+  width: 200px;
+  height: auto;
+  
+  
+}
+
+
+
+
+div.scrollmenu {
+  background-color: rgb(255, 255, 255);
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+
+.portfolio #portfolio-flters2 li {
+  cursor: pointer;
+  margin: 0 15px 15px 0;
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 12px;
+  line-height: 20px;
+  color: #444444;
+  border-radius: 4px;
+  text-transform: uppercase;
+  background: #fff;
+  margin-bottom: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+
+
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   background: #fa0101;
   color: #fff;
 }
 
+.portfolio #portfolio-flters2 li:hover, .portfolio #portfolio-flters2 li.filter-active {
+  background: #fa0101;
+  color: #fff;
+}
+
+
+
 .portfolio #portfolio-flters li:last-child {
+  margin-right: 0;
+}
+
+.portfolio #portfolio-flters2 li:last-child {
   margin-right: 0;
 }
 
@@ -1444,3 +1513,4 @@ section {
   width:100%;
   position:absolute;
 }
+

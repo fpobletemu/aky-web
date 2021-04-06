@@ -3,47 +3,86 @@ traerDatos();
 function traerDatos() {
 
 
-    const xhttp = new XMLHttpRequest();
+  const xhttp = new XMLHttpRequest();
 
-    xhttp.open('GET', 'data/akysushi.json', true)
+  xhttp.open('GET', 'data/akysushi.json', true)
 
-    xhttp.send();
+  xhttp.send();
 
-    
+  let sushi_carta = [];
+  let promos = [];
+  let extras = [];
 
-    xhttp.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
+  xhttp.onreadystatechange = function () {
+    if (this.readyState == 4 && this.status == 200) {
 
 
-            let datos = JSON.parse(this.responseText);
-            
-
-            let tarjeta = document.querySelector('#tarjeta');
-            tarjeta.innerHTML = '';
-
-            
-
-            for (let item of datos) {
-
-                precios = ``;
-                string_final =``;
-
-                
-
-                arrayPrecios = item.Precio;
-                arrayEnvoltura = item.Envoltura;
-
-               for (let index = 0; index < arrayEnvoltura.length; index++) {
-                 
-                    precios = `<tr><td colspan="3">${arrayEnvoltura[index]}</td><td>$${arrayPrecios[index]}</td></tr>`;
-
-                    string_final = string_final + precios;
-                    
-                }
+      let datos = JSON.parse(this.responseText);
 
 
 
-                tarjeta.innerHTML += `
+      // for (const sushi of datos) {
+      //   let isnum = /^\d+$/.test(sushi.ID);
+      //   let isprom = sushi.ID.includes("P");
+
+
+
+      //   if (isnum) {
+      //     sushi_carta.push(sushi);
+      //   }
+
+
+      //   if (isprom){
+      //     promos.push(sushi);
+      //   }
+
+      //   if (!isnum && !isprom) {
+      //     extras.push(sushi);
+      //   }
+
+
+      // }
+
+      let tarjeta = document.querySelector('#tarjeta');
+      let test = document.querySelector('#test');
+
+      promosCard.innerHTML = '';
+      tarjeta.innerHTML = '';
+
+
+
+      for (let item of datos) {
+
+        precios = ``;
+        string_final = ``;
+        string_final2 = ``;
+
+        let isnum = /^\d+$/.test(item.ID);
+        let isprom = item.ID.includes("P");
+
+        arrayPrecios = item.Precio;
+        arrayEnvoltura = item.Envoltura;
+
+        for (let index = 0; index < arrayEnvoltura.length; index++) {
+
+          precios = `<tr><td colspan="3">${arrayEnvoltura[index]}</td><td>$${arrayPrecios[index]}</td></tr>`;
+
+          precios2 = `<tr><td>${arrayEnvoltura[index]}</td></tr>`;
+
+          string_final = string_final + precios;
+
+          string_final2 = string_final2 + precios2;
+
+        }
+
+
+
+
+
+
+
+        if (isnum) {
+          tarjeta.innerHTML += `
                 <div class="my-5 col-lg-6 col-md-6 portfolio-item ${item.Tipo} wow fadeInUp" data-wow-delay="0.2s">
                 <div class="portfolio-wrap">
               <div class="container">
@@ -71,8 +110,47 @@ function traerDatos() {
             </div>
             </div>
                 `
-            }
-
         }
+
+        if (isprom) {
+          promosCard.innerHTML += `<div class="my-5 col-lg-6 col-md-6 portfolio-item ${item.Tipo}" >
+
+          <div class="container">
+            <div class="row">
+              <div class="portfolio-img-bg col-6"></div>
+              <div class="portfolio-info-card col-6">
+
+                <h4>${item.ID} - ${item.Titulo}</h4>
+
+                <h5>$${item.Precio}</h5>
+
+                <table class="table caption-top">
+                  <caption>${item.Tipo}</caption>
+
+                  <tbody>
+                    ${string_final2}
+                  </tbody>
+                </table>
+
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>`
+        }
+
+
+
+      }
+
     }
+  }
+
+
+
+
+
+
 }
