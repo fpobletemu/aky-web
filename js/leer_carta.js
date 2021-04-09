@@ -65,7 +65,7 @@ function traerDatos() {
 
         for (let index = 0; index < arrayEnvoltura.length; index++) {
 
-          precios = `<tr><td colspan="3">${arrayEnvoltura[index]}</td><td>$${arrayPrecios[index]}</td></tr>`;
+          precios = `<tr><td colspan="3">${arrayEnvoltura[index]}</td><td><b>$${arrayPrecios[index]}</b></td></tr>`;
 
           precios2 = `<tr><td>${arrayEnvoltura[index]}</td></tr>`;
 
@@ -91,7 +91,7 @@ function traerDatos() {
                   </div>
                   <div class="portfolio-info-card col-6">
 
-                  <h4>${item.ID} - ${item.Titulo}</h4>
+                  <h5>${item.ID} - ${item.Titulo}</h5>
                     
                     <table class="table caption-top">
                       <caption>${item.Tipo}</caption>
@@ -122,7 +122,7 @@ function traerDatos() {
 
                 <h4>${item.ID} - ${item.Titulo}</h4>
 
-                <h5>$${item.Precio}</h5>
+                <h5><b>$${item.Precio}</b></h5>
 
                 <table class="table caption-top">
                   <caption>${item.Tipo}</caption>

@@ -1514,3 +1514,8 @@ div.scrollmenu a:hover {
   position:absolute;
 }
 
+#slider img {
+  height: 500px;
+  width: auto;
+  
+}
