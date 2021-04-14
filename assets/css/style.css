@@ -416,7 +416,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 0px 0;
 }
 
 .section-bg {
@@ -818,7 +818,7 @@ div.scrollmenu a:hover {
 }
 
 .portfolio .portfolio-img-bg {
-  background-image: url('../../images/default-card.png');
+  background-image: url('../../images/sushi/tarjetas/akyimg.jfif');
   background-size: cover;
   background-position: 50%;
   height: auto;
@@ -1514,8 +1514,15 @@ div.scrollmenu a:hover {
   position:absolute;
 }
 
+#slider container {
+  height: 100vh;
+  width: auto;
+  
+}
+
 #slider img {
   height: 500px;
   width: auto;
+  padding: 20px;
   
 }
