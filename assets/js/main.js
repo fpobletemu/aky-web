@@ -180,12 +180,22 @@
 
       let portfolioFilters = select('#portfolio-flters li', true);
 
+      let tarjetasCarta = document.getElementById("tarjeta");
+      let tarjetasCartaPromo = document.getElementById("promosCard");
+
+      let portafolioCarta = document.getElementById("carta");
+
       on('click', '#portfolio-flters li', function (e) {
         e.preventDefault();
         portfolioFilters.forEach(function (el) {
           el.classList.remove('filter-active');
         });
         this.classList.add('filter-active');
+        tarjetasCarta.classList.add('mostrar');
+        tarjetasCarta.classList.remove('esconder');
+        tarjetasCartaPromo.classList.add('mostrar');
+        tarjetasCartaPromo.classList.remove('esconder');
+        portafolioCarta.scrollIntoView();
 
         portfolioIsotope.arrange({
           filter: this.getAttribute('data-filter')

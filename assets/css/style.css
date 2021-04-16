@@ -1515,7 +1515,9 @@ div.scrollmenu a:hover {
 }
 
 
-
+#promociones carousel-item{
+  width: 50% i !important;
+}
 
 #promociones img{
   max-height: 70vh;
@@ -1525,4 +1527,12 @@ div.scrollmenu a:hover {
   display: block;
   padding-top: 1fr;
   margin: 0 auto;
+}
+
+.mostrar {
+  display:block;
+}
+
+.esconder {
+  display:none;
 }
