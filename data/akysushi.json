@@ -1244,7 +1244,14 @@
     "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en salmón.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Champiñon furai, palta, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, envuelto en tempura.</li><li>Pollo, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en sésamo.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li>",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      ""
+      "10 Camarón furai, queso crema, cebollín, envuelto en salmón",
+      "10 Pollo, palta, cebollín, envuelto en queso crema",
+      "10 Champiñon furai, palta, cebollín, envuelto en tempura",
+      "10 Kanikama, palta, envuelto en tempura",
+      "10 Pollo, queso crema, cebollín, envuelto en palta",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Pollo, queso crema, cebollín, envuelto en sésamo",
+      "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado"
     ],
     "Precio": [
       "18.900"
@@ -1262,7 +1269,16 @@
     "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, envuelto en salmón.</li><li>Salmón, queso crema, ciboulette, envuelto en palta.</li><li>Pollo, queso crema, cebollín, envuelto en ciboulette.</li><li>10 Pollo, queso crema, envuelto en alga nori.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li>",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      ""
+      "10 Camarón furai, queso crema, cebollín, envuelto en palta",
+      "10 Pollo, palta, cebollín, envuelto en queso crema",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Champiñon furai, palta, envuelto en sésamo",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Kanikama, palta, envuelto en salmón",
+      "Salmón, queso crema, ciboulette, envuelto en palta",
+      "Pollo, queso crema, cebollín, envuelto en ciboulette",
+      "10 Pollo, queso crema, envuelto en alga nori",
+      "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado"
     ],
     "Precio": [
       "24.900"
@@ -1280,7 +1296,8 @@
     "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Camarón furai, palta, cebollín, envuelto en palta",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura"
     ],
     "Precio": [
       "6.600"
@@ -1298,7 +1315,9 @@
     "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en palta.</li><li>10 Pollo, queso creoma, cebollín, envuelto en palta.</li><li>10 Salmón, queso crema, ciboulette, envuelto en sésamo.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Camarón furai, palta, cebollín, envuelto en palta",
+      "10 Pollo, queso creoma, cebollín, envuelto en palta",
+      "10 Salmón, queso crema, ciboulette, envuelto en sésamo"
     ],
     "Precio": [
       "9.600"
@@ -1316,7 +1335,10 @@
     "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Salmón, queso crema, ciboulette, envuelto en palta.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Pollo, palta, cebollín, envuelto en sésamo",
+      "10 Salmón, queso crema, ciboulette, envuelto en palta"
     ],
     "Precio": [
       "12.600"
@@ -1334,7 +1356,11 @@
     "Descripcion": "<li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Camarón, queso crema, ciboulette, envuelto en tempura",
+      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Pollo, palta, cebollín, envuelto en sésamo",
+      "10 Salmón, camarón, queso crema, envuelto en palta"
     ],
     "Precio": [
       "15.900"
@@ -1352,7 +1378,12 @@
     "Descripcion": "<li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li10 Salmón, queso crema, ciboulette, envuelto en sésamo.></li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Camarón, queso crema, ciboulette, envuelto en tempura",
+      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Pollo, pimentón, cebollín, envuelto en alga tempurizado",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Salmón, queso crema, ciboulette, envuelto en sésamo",
+      "10 Salmón, camarón, queso crema, envuelto en palta"
     ],
     "Precio": [
       "18.600"
@@ -1370,7 +1401,13 @@
     "Descripcion": "<li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, cebollín furai, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en ciboulette.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.",
+      "10 Camarón, queso crema, ciboulette, envuelto en tempura",
+      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Pollo, queso crema, cebollín furai, envuelto en tempura",
+      "10 Champiñon furai, palta, envuelto en ciboulette",
+      "10 Salmón, camarón, queso crema, envuelto en palta",
+      "10 Pollo, palta, cebollín, envuelto en sésamo"
     ],
     "Precio": [
       "20.600"
@@ -1388,7 +1425,14 @@
     "Descripcion": "<li>10 Camarón furai, queso crema, ciboulette, envuelto en palta.</li><li>10 Camarón, palta, cebollín, envuelto en salmón.</li><li>10 Carane, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>Salmón, queso crema, ciboulette, envuelto en sésamo.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Camarón furai, queso crema, ciboulette, envuelto en palta",
+      "10 Camarón, palta, cebollín, envuelto en salmón",
+      "10 Carane, queso crema, cebollín, envuelto en tempura",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Pollo, palta, cebollín, envuelto en sésamo",
+      "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado",
+      "Salmón, queso crema, ciboulette, envuelto en sésamo",
+      "10 Salmón, camarón, queso crema, envuelto en palta"
     ],
     "Precio": [
       "23.900"
@@ -1406,7 +1450,16 @@
     "Descripcion": "<li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, palta, envuelto en sésamo.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Salmón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li><li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Atún, queso crema, ciboulette, envuelto en tempura.</li><li>10 Pollo, queso crema, envuelto en alga nori.</li>",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      ""
+      "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado",
+      "10 Camarón, queso crema, ciboulette, envuelto en tempura",
+      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Pollo, queso crema, palta, envuelto en sésamo",
+      "10 Pollo, palta, cebollín, envuelto en queso crema",
+      "10 Salmón, queso crema, ciboulette, envuelto en tempura",
+      "10 Salmón, camarón, queso crema, envuelto en palta",
+      "10 Champiñon furai, palta, envuelto en sésamo",
+      "10 Atún, queso crema, ciboulette, envuelto en tempura",
+      "10 Pollo, queso crema, envuelto en alga nori"
     ],
     "Precio": [
       "29.000"
@@ -1442,7 +1495,7 @@
     "Descripcion": "<li>Elección de rolls de la carta entre 1 y el 26. Envoltura en tempura, queso crema o palta. <b>$11.200</b></li>",
     "Tipo": "promos-a-eleccion",
     "Envoltura": [
-      ""
+      "Elección de rolls de la carta entre <strong>1</strong> y el <strong>26</strong>. Envoltura en tempura, queso crema o palta"
     ],
     "Precio": [
       "11.200"
@@ -1460,7 +1513,8 @@
     "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en tempura. </li><li>10 Pollo, queso crema, cebollín, envuelto en tempura. </li>",
     "Tipo": "promos-fritas",
     "Envoltura": [
-      ""
+      "10 Camarón furai, palta, cebollín, envuelto en tempura",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura"
     ],
     "Precio": [
       "6.200"
@@ -1478,7 +1532,10 @@
     "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Salmón, queso crema, ciboulette, envuelto en tempura.</li>",
     "Tipo": "promos-fritas",
     "Envoltura": [
-      ""
+      "10 Camarón furai, palta, cebollín, envuelto en tempura",
+      "10 Kanikama, palta, cebollín, envuelto en tempura",
+      "10 Pollo, queso crema, cebollín, envuelto en tempura",
+      "10 Salmón, queso crema, ciboulette, envuelto en tempura"
     ],
     "Precio": [
       "12.000"
@@ -1496,7 +1553,9 @@
     "Descripcion": "<li>10 Champiñon furai, palta, cebollín, envuelto en palta.</li><li>10 Palmito, palta, cebollín, envuelto en sésamo.</li><li>10 Pimentón, palta, cebollín, envuelto en alga nori.</li>",
     "Tipo": "promos-vegetarianas",
     "Envoltura": [
-      ""
+      "10 Champiñon furai, palta, cebollín, envuelto en palta",
+      "10 Palmito, palta, cebollín, envuelto en sésamo",
+      "10 Pimentón, palta, cebollín, envuelto en alga nori"
     ],
     "Precio": [
       "9.000"
@@ -1514,7 +1573,11 @@
     "Descripcion": "<li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Palmito, palta, cebollín, envuelto en tempura.</li><li>10 Champiñon furai, palta, queso crema, envuelto en ciboulette.</li><li>10 Palta, queso crema, pimentón, cebollín, envuelto en tempura.</li><li>10 Palmito, champiñon furai, queso crema, envuelto en palta.</li>",
     "Tipo": "promos-vegetarianas",
     "Envoltura": [
-      ""
+      "10 Champiñon furai, palta, envuelto en sésamo",
+      "10 Palmito, palta, cebollín, envuelto en tempura",
+      "10 Champiñon furai, palta, queso crema, envuelto en ciboulette",
+      "10 Palta, queso crema, pimentón, cebollín, envuelto en tempura",
+      "10 Palmito, champiñon furai, queso crema, envuelto en palta"
     ],
     "Precio": [
       "15.000"

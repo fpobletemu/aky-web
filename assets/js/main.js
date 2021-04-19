@@ -183,7 +183,7 @@
       let tarjetasCarta = document.getElementById("tarjeta");
       let tarjetasCartaPromo = document.getElementById("promosCard");
 
-      let portafolioCarta = document.getElementById("carta");
+      let portafolioCarta = document.getElementById("sep");
 
       on('click', '#portfolio-flters li', function (e) {
         e.preventDefault();
@@ -195,7 +195,9 @@
         tarjetasCarta.classList.remove('esconder');
         tarjetasCartaPromo.classList.add('mostrar');
         tarjetasCartaPromo.classList.remove('esconder');
+        
         portafolioCarta.scrollIntoView();
+
 
         portfolioIsotope.arrange({
           filter: this.getAttribute('data-filter')
