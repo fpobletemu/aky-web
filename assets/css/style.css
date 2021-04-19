@@ -1128,6 +1128,11 @@ div.scrollmenu a:hover {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
+#contact {
+  padding: 60px;
+}
+
 .contact .info-wrap {
   padding: 30px;
   background: #fff;
@@ -1542,4 +1547,8 @@ div.scrollmenu a:hover {
 #sep {
   height: 70px;
   background: white;
+}
+
+#promociones .container{
+  background: #21262a;
 }
