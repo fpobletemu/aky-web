@@ -1549,6 +1549,11 @@ div.scrollmenu a:hover {
   background: white;
 }
 
+
+
 #promociones .container{
   background: #21262a;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(255, 0, 0, 0.534);
 }
