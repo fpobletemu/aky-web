@@ -18,31 +18,6 @@ function traerDatos() {
 
 
       let datos = JSON.parse(this.responseText);
-
-
-
-      // for (const sushi of datos) {
-      //   let isnum = /^\d+$/.test(sushi.ID);
-      //   let isprom = sushi.ID.includes("P");
-
-
-
-      //   if (isnum) {
-      //     sushi_carta.push(sushi);
-      //   }
-
-
-      //   if (isprom){
-      //     promos.push(sushi);
-      //   }
-
-      //   if (!isnum && !isprom) {
-      //     extras.push(sushi);
-      //   }
-
-
-      // }
-
       let tarjeta = document.querySelector('#tarjeta');
       let test = document.querySelector('#test');
 
