@@ -13,6 +13,10 @@ function traerDatos() {
   let promos = [];
   let extras = [];
 
+
+
+
+
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
 
@@ -67,7 +71,7 @@ function traerDatos() {
                   </div>
                   <div class="portfolio-info-card col-6">
 
-                  <h5>${item.ID} - ${item.Titulo}</h5>
+                  <h4>${item.ID} - ${item.Titulo}</h4>
                     
                     <table class="table caption-top">
                       <caption>${item.Tipo}</caption>
