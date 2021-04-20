@@ -1620,5 +1620,117 @@
       "/img/sushis/img1-2.jpg",
       "/img/sushis/img1-3.jpg"
     ]
+  },
+  {
+    "ID": "RG1",
+    "Titulo": "Atún Steak 200gr.",
+    "Descripcion": "",
+    "Tipo": "gourmet",
+    "Envoltura": [
+      ""
+    ],
+    "Precio": ["2.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "RG2",
+    "Titulo": "Camarón 36-40 500gr.",
+    "Descripcion": "",
+    "Tipo": "gourmet",
+    "Envoltura": [
+      ""
+    ],
+    "Precio": ["5.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "RG3",
+    "Titulo": "Macha Media Concha 14u.",
+    "Descripcion": "",
+    "Tipo": "gourmet",
+    "Envoltura": [
+      ""
+    ],
+    "Precio": ["8.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "RG4",
+    "Titulo": "Merluza Austral KG",
+    "Descripcion": "",
+    "Tipo": "gourmet",
+    "Envoltura": [
+      ""
+    ],
+    "Precio": ["9.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "RG5",
+    "Titulo": "Ostión Media Concha",
+    "Descripcion": "",
+    "Tipo": "gourmet",
+    "Envoltura": [
+      ""
+    ],
+    "Precio": ["7.000"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "RG6",
+    "Titulo": "Salmón Ahumado L. 300gr.",
+    "Descripcion": "",
+    "Tipo": "gourmet",
+    "Envoltura": [
+      ""
+    ],
+    "Precio": ["2.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "RG7",
+    "Titulo": "Surtido Marisco 500gr.",
+    "Descripcion": "",
+    "Tipo": "gourmet",
+    "Envoltura": [
+      ""
+    ],
+    "Precio": ["2.900"],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/sushi/tarjetas/default-in.png",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
   }
 ]

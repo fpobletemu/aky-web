@@ -34,6 +34,7 @@ function traerDatos() {
 
         let isnum = /^\d+$/.test(item.ID);
         let isprom = item.ID.includes("P");
+        let isgour = item.ID.includes("RG");
 
         arrayPrecios = item.Precio;
         arrayEnvoltura = item.Envoltura;
@@ -87,7 +88,7 @@ function traerDatos() {
                 `
         }
 
-        if (isprom) {
+        if (isprom || isgour ) {
           promosCard.innerHTML += `<div class="my-5 col-lg-6 col-md-12 col-sm-12 portfolio-item ${item.Tipo}" >
 
           <div class="container">
