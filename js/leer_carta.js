@@ -23,6 +23,7 @@ function traerDatos() {
 
       let datos = JSON.parse(this.responseText);
       let tarjeta = document.querySelector('#tarjeta');
+      let promosCard = document.querySelector('#promosCard');
       let test = document.querySelector('#test');
 
       promosCard.innerHTML = '';
@@ -105,7 +106,7 @@ function traerDatos() {
                 <h5><b>$${item.Precio}</b></h5>
 
                 <table class="table caption-top">
-                  <caption>${item.Tipo}</caption>
+                  <caption>${item.Descripcion}</caption>
 
                   <tbody>
                     ${string_final2}

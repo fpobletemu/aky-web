@@ -1550,3 +1550,42 @@ div.scrollmenu a:hover {
   background: white;
 }
 
+.map-rep-container {
+  
+  height: 500px;
+}
+
+.map-rep-container  iframe{
+  margin: 0 auto;
+  display: block;
+  height: 100%;
+  width: 100%;
+  
+}
+
+.lista-mapa{
+  padding: 50px;
+}
+
+
+.box {
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  clear: both;
+}
+
+.red {
+  background-color: red;
+  
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}

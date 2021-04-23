@@ -1623,8 +1623,8 @@
   },
   {
     "ID": "RG1",
-    "Titulo": "Atún Steak 200gr.",
-    "Descripcion": "",
+    "Titulo": "Atún Steak",
+    "Descripcion": "200gr.",
     "Tipo": "gourmet",
     "Envoltura": [
       ""
@@ -1639,8 +1639,8 @@
   },
   {
     "ID": "RG2",
-    "Titulo": "Camarón 36-40 500gr.",
-    "Descripcion": "",
+    "Titulo": "Camarón 36-40",
+    "Descripcion": "500gr.",
     "Tipo": "gourmet",
     "Envoltura": [
       ""
@@ -1655,8 +1655,8 @@
   },
   {
     "ID": "RG3",
-    "Titulo": "Macha Media Concha 14u.",
-    "Descripcion": "",
+    "Titulo": "Macha Media Concha ",
+    "Descripcion": "14u.",
     "Tipo": "gourmet",
     "Envoltura": [
       ""
@@ -1671,8 +1671,8 @@
   },
   {
     "ID": "RG4",
-    "Titulo": "Merluza Austral KG",
-    "Descripcion": "",
+    "Titulo": "Merluza Austral",
+    "Descripcion": "1Kg",
     "Tipo": "gourmet",
     "Envoltura": [
       ""
@@ -1703,8 +1703,8 @@
   },
   {
     "ID": "RG6",
-    "Titulo": "Salmón Ahumado L. 300gr.",
-    "Descripcion": "",
+    "Titulo": "Salmón Ahumado L. ",
+    "Descripcion": "300gr.",
     "Tipo": "gourmet",
     "Envoltura": [
       ""
@@ -1719,8 +1719,8 @@
   },
   {
     "ID": "RG7",
-    "Titulo": "Surtido Marisco 500gr.",
-    "Descripcion": "",
+    "Titulo": "Surtido Marisco ",
+    "Descripcion": "500gr.",
     "Tipo": "gourmet",
     "Envoltura": [
       ""
