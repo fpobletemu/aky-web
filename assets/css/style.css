@@ -1551,8 +1551,8 @@ div.scrollmenu a:hover {
 }
 
 .map-rep-container {
+  background: black;
   
-  height: 500px;
 }
 
 .rep-map{
@@ -1563,4 +1563,10 @@ div.scrollmenu a:hover {
   padding-bottom: 40px;
 }
 
+tbody {
+  font-size: 15px;
+}
 
+caption {
+  font-size: 18px;
+}
