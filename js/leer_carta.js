@@ -75,7 +75,7 @@ function traerDatos() {
                   <h4>${item.ID} - ${item.Titulo}</h4>
                     
                     <table class="table caption-top">
-                      <caption>${item.Tipo}</caption>
+                      <caption></caption>
                       
                       <tbody>
                         ${string_final}
