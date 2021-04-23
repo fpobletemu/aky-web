@@ -1555,7 +1555,7 @@ div.scrollmenu a:hover {
   height: 500px;
 }
 
-.map-rep-container  iframe{
+.rep-map{
   margin: 0 auto;
   display: block;
   height: 100%;
