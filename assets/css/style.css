@@ -8,7 +8,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-*{box-sizing: border-box;}
+* {
+  box-sizing: border-box;
+}
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -26,7 +28,12 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Raleway", sans-serif;
 }
 
@@ -72,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   background: #fff;
-  
+
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -85,7 +92,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #384046;
 }
 
-#header .logo h1 a, #header .logo h1 a:hover {
+#header .logo h1 a,
+#header .logo h1 a:hover {
   color: #384046;
   text-decoration: none;
 }
@@ -131,7 +139,6 @@ h1, h2, h3, h4, h5, h6 {
 */
 .navbar {
   padding: 0;
-  
 }
 
 .navbar ul {
@@ -165,7 +172,9 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 
-.navbar a:hover, .navbar .active, .navbar li:hover > a {
+.navbar a:hover,
+.navbar .active,
+.navbar li:hover > a {
   color: #db3434;
 }
 
@@ -199,7 +208,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 
-.navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
+.navbar .dropdown ul a:hover,
+.navbar .dropdown ul .active:hover,
+.navbar .dropdown ul li:hover > a {
   color: #db3434;
 }
 
@@ -293,7 +304,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #384046;
 }
 
-.navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
+.navbar-mobile a:hover,
+.navbar-mobile .active,
+.navbar-mobile li:hover > a {
   color: #db3434;
 }
 
@@ -325,7 +338,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 
-.navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
+.navbar-mobile .dropdown ul a:hover,
+.navbar-mobile .dropdown ul .active:hover,
+.navbar-mobile .dropdown ul li:hover > a {
   color: #db3434;
 }
 
@@ -439,7 +454,7 @@ section {
 }
 
 .section-title h2::before {
-  content: '';
+  content: "";
   position: absolute;
   display: block;
   width: 120px;
@@ -450,7 +465,7 @@ section {
 }
 
 .section-title h2::after {
-  content: '';
+  content: "";
   position: absolute;
   display: block;
   width: 40px;
@@ -514,7 +529,8 @@ section {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
 }
 
-.what-we-do .icon-box:hover h4 a, .what-we-do .icon-box:hover .icon i {
+.what-we-do .icon-box:hover h4 a,
+.what-we-do .icon-box:hover .icon i {
   color: #db3434;
 }
 
@@ -605,7 +621,7 @@ section {
 .skills .progress-bar {
   width: 1px;
   height: 10px;
-  transition: .9s;
+  transition: 0.9s;
   background-color: #e35f5f;
 }
 
@@ -720,7 +736,6 @@ section {
   text-align: center;
 }
 
-
 .portfolio #portfolio-flters li {
   cursor: pointer;
   margin: 0 15px 15px 0;
@@ -736,15 +751,11 @@ section {
   transition: all 0.3s ease-in-out;
 }
 
-.portfolio #portfolio-flters li img{
+.portfolio #portfolio-flters li img {
   width: 200px;
   height: 150px;
   border-radius: 5%;
-  
 }
-
-
-
 
 div.scrollmenu {
   background-color: rgb(255, 255, 255);
@@ -764,9 +775,6 @@ div.scrollmenu a:hover {
   background-color: rgb(255, 255, 255);
 }
 
-
-
-
 .portfolio #portfolio-flters2 li {
   cursor: pointer;
   margin: 0 15px 15px 0;
@@ -782,19 +790,17 @@ div.scrollmenu a:hover {
   transition: all 0.3s ease-in-out;
 }
 
-
-
-.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+.portfolio #portfolio-flters li:hover,
+.portfolio #portfolio-flters li.filter-active {
   background: #fa0101;
   color: #fff;
 }
 
-.portfolio #portfolio-flters2 li:hover, .portfolio #portfolio-flters2 li.filter-active {
+.portfolio #portfolio-flters2 li:hover,
+.portfolio #portfolio-flters2 li.filter-active {
   background: #fa0101;
   color: #fff;
 }
-
-
 
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
@@ -820,7 +826,7 @@ div.scrollmenu a:hover {
 }
 
 .portfolio .portfolio-img-bg {
-  background-image: url('../../images/sushi/tarjetas/akyimg.jfif');
+  background-image: url("../../images/sushi/tarjetas/akyimg.jfif");
   background-size: cover;
   background-position: 50%;
   height: auto;
@@ -831,8 +837,6 @@ div.scrollmenu a:hover {
   background-color: white;
   text-justify: auto;
   font-size: 12px;
-
-
 }
 
 .portfolio .portfolio-item figure {
@@ -846,10 +850,11 @@ div.scrollmenu a:hover {
 
 .portfolio .portfolio-item figure:hover img {
   opacity: 0.4;
-  transition: .4s;
+  transition: 0.4s;
 }
 
-.portfolio .portfolio-item figure .link-preview, .portfolio .portfolio-item figure .link-details {
+.portfolio .portfolio-item figure .link-preview,
+.portfolio .portfolio-item figure .link-details {
   position: relative;
   display: flex;
   align-items: center;
@@ -861,21 +866,24 @@ div.scrollmenu a:hover {
   height: 36px;
   background: #fff;
   border-radius: 50%;
-  transition: all .2s linear;
+  transition: all 0.2s linear;
   overflow: hidden;
   font-size: 20px;
 }
 
-.portfolio .portfolio-item figure .link-preview i, .portfolio .portfolio-item figure .link-details i {
+.portfolio .portfolio-item figure .link-preview i,
+.portfolio .portfolio-item figure .link-details i {
   color: #384046;
   line-height: 0;
 }
 
-.portfolio .portfolio-item figure .link-preview:hover, .portfolio .portfolio-item figure .link-details:hover {
+.portfolio .portfolio-item figure .link-preview:hover,
+.portfolio .portfolio-item figure .link-details:hover {
   background: #db3434;
 }
 
-.portfolio .portfolio-item figure .link-preview:hover i, .portfolio .portfolio-item figure .link-details:hover i {
+.portfolio .portfolio-item figure .link-preview:hover i,
+.portfolio .portfolio-item figure .link-details:hover i {
   color: #fff;
 }
 
@@ -949,7 +957,10 @@ div.scrollmenu a:hover {
   position: relative;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+.portfolio-details
+  .portfolio-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: #fff;
@@ -957,7 +968,10 @@ div.scrollmenu a:hover {
   border: 1px solid #db3434;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+.portfolio-details
+  .portfolio-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet-active {
   background-color: #db3434;
 }
 
@@ -1031,7 +1045,8 @@ div.scrollmenu a:hover {
   margin: 0;
 }
 
-.testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
+.testimonials .testimonial-item .quote-icon-left,
+.testimonials .testimonial-item .quote-icon-right {
   color: #e1f0fa;
   font-size: 26px;
 }
@@ -1234,7 +1249,8 @@ div.scrollmenu a:hover {
   animation: animate-loading 1s linear infinite;
 }
 
-.contact .php-email-form input, .contact .php-email-form textarea {
+.contact .php-email-form input,
+.contact .php-email-form textarea {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
@@ -1480,69 +1496,72 @@ div.scrollmenu a:hover {
   text-decoration: none;
 }
 
-*{margin: 0; padding: 0;}
-.caja{
+* {
+  margin: 0;
+  padding: 0;
+}
+.caja {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
   background: #333944;
 }
-.box-tst{
+.box-tst {
   width: 450px;
   height: 300px;
-  background: #CCC;
+  background: #ccc;
   overflow: hidden;
 }
 
-.box-tst img{
+.box-tst img {
   width: 100%;
   height: auto;
 }
-@supports(object-fit: cover){
-    .box-tst img{
-      height: 100%;
-      object-fit: cover;
-      object-position: center center;
-    }
+@supports (object-fit: cover) {
+  .box-tst img {
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
 }
 
-.map-responsive{
-  overflow:hidden;
-  padding-bottom:56.25%;
-  position:relative;
-  height:0;
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
 }
-.map-responsive iframe{
-  left:0;
-  top:0;
-  height:100%;
-  width:100%;
-  position:absolute;
-}
-
-
-#promociones carousel-item{
-  width: 50%  !important;
-
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 600px;
+  width: 100%;
+  position: absolute;
+  padding-bottom: 40px;
+  
 }
 
-#promociones img{
+#promociones carousel-item {
+  width: 50% !important;
+}
+
+#promociones img {
   max-height: 70vh;
   max-width: 600px;
   width: 50%;
   height: auto;
   display: block;
-  
+
   margin: 0 auto;
 }
 
 .mostrar {
-  display:block;
+  display: block;
 }
 
 .esconder {
-  display:none;
+  display: none;
 }
 
 #sep {
@@ -1551,17 +1570,13 @@ div.scrollmenu a:hover {
 }
 
 .map-rep-container {
-  
-  height: 500px;
-  
-  
+  height: 700px;
 }
 
-.rep-map{
+.rep-map {
   margin: 0 auto;
   display: block;
   width: auto;
-  
 }
 
 tbody {
