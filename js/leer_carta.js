@@ -24,7 +24,7 @@ function traerDatos() {
       let datos = JSON.parse(this.responseText);
       let tarjeta = document.querySelector('#tarjeta');
       let promosCard = document.querySelector('#promosCard');
-      let test = document.querySelector('#test');
+      let test = document.querySelector('#test'); 
 
       promosCard.innerHTML = '';
       tarjeta.innerHTML = '';
