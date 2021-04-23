@@ -1551,16 +1551,16 @@ div.scrollmenu a:hover {
 }
 
 .map-rep-container {
-  background: black;
-  height: 100vh;
+  
+  height: 500px;
+  
   
 }
 
 .rep-map{
   margin: 0 auto;
   display: block;
-  height: 100%;
-  width: 100%;
+  width: auto;
   
 }
 
