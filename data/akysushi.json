@@ -45,7 +45,7 @@
   },
   {
     "ID": "3",
-    "Titulo": "Camarón, Palta, Champiñón Furai",
+    "Titulo": "Camarón, Palta, Champiñón Furay",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.700</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.300</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.500</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -133,7 +133,7 @@
   },
   {
     "ID": "7",
-    "Titulo": "Camarón Furai, Palta, Cebollín",
+    "Titulo": "Camarón Furay, Palta, Cebollín",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -155,7 +155,7 @@
   },
   {
     "ID": "8",
-    "Titulo": "Camarón Furai, Queso Crema, Cebollín",
+    "Titulo": "Camarón Furay, Queso Crema, Cebollín",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -177,7 +177,7 @@
   },
   {
     "ID": "9",
-    "Titulo": "Camarón Furai, Queso Crema, Palta",
+    "Titulo": "Camarón Furay, Queso Crema, Palta",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.800</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.400</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.600</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -243,7 +243,7 @@
   },
   {
     "ID": "12",
-    "Titulo": "Champiñon Furai y Palta",
+    "Titulo": "Champiñon Furay y Palta",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -265,7 +265,7 @@
   },
   {
     "ID": "13",
-    "Titulo": "Champiñon Furai, Queso Crema, Ciboulette",
+    "Titulo": "Champiñon Furay, Queso Crema, Ciboulette",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -331,7 +331,7 @@
   },
   {
     "ID": "16",
-    "Titulo": "Palmito, Champiñon Furai, Cebollín",
+    "Titulo": "Palmito, Champiñon Furay, Cebollín",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -419,7 +419,7 @@
   },
   {
     "ID": "20",
-    "Titulo": "Pollo, Queso Crema, Champiñon Furai",
+    "Titulo": "Pollo, Queso Crema, Champiñon Furay",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -441,7 +441,7 @@
   },
   {
     "ID": "21",
-    "Titulo": "Pollo Furai, Queso Crema, Ciboulette",
+    "Titulo": "Pollo Furay, Queso Crema, Ciboulette",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -551,7 +551,7 @@
   },
   {
     "ID": "26",
-    "Titulo": "Salmón, Queso Crema, Palta",
+    "Titulo": "Salmón, Camarón, Queso Crema",
     "Descripcion": " <li>Envuelto en Sésamo o Ciboulette <b> - $4.100</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.700</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.900</b></li>",
     "Tipo": "roll",
     "Envoltura": [
@@ -668,7 +668,7 @@
       "Envuelto en Palta con salsa Acevichada"
     ],
     "Precio": [
-      "4.600"
+      "5.600"
     ],
     "Oferta": 7.500,
     "Imagen": [
@@ -679,7 +679,7 @@
   },
   {
     "ID": "32",
-    "Titulo": "Pollo Furai, Queso Crema, Palta",
+    "Titulo": "Pollo Furay, Queso Crema, Palta",
     "Descripcion": " <li>Envuelto en Pollo con salsa de Champiñon <b> - $4.900</b></li>",
     "Tipo": "especialidades",
     "Envoltura": [
@@ -751,7 +751,7 @@
   },
   {
     "ID": "36",
-    "Titulo": "Camarón Furai, Kanikama, Queso Crema, Cebollín",
+    "Titulo": "Camarón Furay, Kanikama, Queso Crema, Cebollín",
     "Descripcion": " <li>Envuelto en Palta <b> - $5.200</b></li>",
     "Tipo": "sin-arroz",
     "Envoltura": [
@@ -769,7 +769,7 @@
   },
   {
     "ID": "37",
-    "Titulo": "Pollo Furai, Kanikama, Queso Crema, Cebollín",
+    "Titulo": "Pollo Furay, Kanikama, Queso Crema, Cebollín",
     "Descripcion": " <li>Envuelto en Palta <b> - $4.700</b></li>",
     "Tipo": "sin-arroz",
     "Envoltura": [
@@ -787,7 +787,7 @@
   },
   {
     "ID": "38",
-    "Titulo": "Pollo, Palta, Queso Crema, Champiñon Furai",
+    "Titulo": "Pollo, Palta, Queso Crema, Champiñon Furay",
     "Descripcion": " <li>Envuelto en Tempura <b> - $4.900</b></li>",
     "Tipo": "sin-arroz",
     "Envoltura": [
@@ -823,7 +823,7 @@
   },
   {
     "ID": "40",
-    "Titulo": "Pollo, Kanikama o Champiñon Furai",
+    "Titulo": "Pollo, Kanikama o Champiñon Furay",
     "Descripcion": " <li>Envuelto en Alga Nori <b> - $2.500</b></li>",
     "Tipo": "hosomaki",
     "Envoltura": [
@@ -1057,7 +1057,7 @@
   },
   {
     "ID": "53",
-    "Titulo": "Pollos Aky Furai (5 Cortes)",
+    "Titulo": "Pollos Aky Furay (5 Cortes)",
     "Descripcion": " <li><b>$3.000</b></li>",
     "Tipo": "picoteos",
     "Envoltura": [
@@ -1075,7 +1075,7 @@
   },
   {
     "ID": "54",
-    "Titulo": "Camarón Aky Furai (5 Unidades)",
+    "Titulo": "Camarón Aky Furay (5 Unidades)",
     "Descripcion": " <li><b>$3.500</b></li>",
     "Tipo": "picoteos",
     "Envoltura": [
@@ -1093,7 +1093,7 @@
   },
   {
     "ID": "55",
-    "Titulo": "Mix Apanados (3 Bolitas Aky,3 Pollos Aky Furai y 3 Camarón Aky Furai",
+    "Titulo": "Mix Apanados (3 Bolitas Aky,3 Pollos Aky Furay y 3 Camarón Aky Furay",
     "Descripcion": " <li><b>$3.800</b></li>",
     "Tipo": "picoteos",
     "Envoltura": [
@@ -1134,9 +1134,9 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      "10 Camarón furai, queso crema, cebollín, envuelto en palta.",
+      "10 Camarón furay, Queso Crema, Cebollin envuelto en Tempura.",
       "10 Kanikama, queso crema, ciboulette, envuelto en sésamo.",
-      "10 Pollo, pimentón, cebollín, envuelto en algo nori tempurizado."
+      "10 Pollo, pimentón, cebollín, envuelto en Alga Nori."
     ],
     "Precio": [
       "7.900"
@@ -1154,7 +1154,7 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      "10 Camarón furai, queso crema, cebollín, envuelto en palta.",
+      "10 Camarón Furay, queso crema, cebollín, envuelto en palta.",
       "10 Kanikama, palta, envuelto en sésamo.",
       "10 Pollo, queso crema, cebollín, envuelto en tempura.",
       "10 Pollo, pimentón, cebollín, envuelto en alga nori tempurizado."
@@ -1175,7 +1175,7 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      "10 Camarón furai, queso crema, cebollín, envuelto en palta.",
+      "10 Camarón Furay, queso crema, cebollín, envuelto en palta.",
       "10 Pollo, queso crema, cebollín, envuelto en tempura.",
       "10 Pollo, palta, cebollín, envuelto en sésamo.",
       "10 Kanikama, palta, envuelto en tempura.",
@@ -1197,12 +1197,12 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      "10 Camarón furai, queso crema, cebollín, envuelto en palta.",
+      "10 Camarón Furay, queso crema, cebollín, envuelto en palta.",
       "10 Kanikama, queso crema, cebollín, envuelto en tempura.",
-      "10 Champiñon furai, palta, envuelto en ciboulette.",
+      "10 Champiñon Furay, palta, envuelto en ciboulette.",
       "10 Pollo, palta, cebollín, envuelto en sésamo.",
       "10 Pollo, queso crema, cebollín envuelto en tempura.",
-      "10 Pollo, pimentón, cebollín, envuelto en algo nori tempurizado."
+      "10 Pollo, pimentón, cebollín, envuelto en Alga Nori tempurizado."
     ],
     "Precio": [
       "14.600"
@@ -1220,10 +1220,10 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      "10 Camarón furai, queso crema, cebollín, envuelto en palta.",
+      "10 Camarón Furay, queso crema, cebollín, envuelto en palta.",
       "10 Pollo, palta, cebollín, envuelto en sésamo.",
       "10 Kanikama, queso crema, cebollín, envuelto en tempura.",
-      "10 Champiñon furai, palta, envuelto en ciboulette.",
+      "10 Champiñon Furay, palta, envuelto en ciboulette.",
       "10 Pollo, palta, cebollín, envuelto en queso crema.",
       "10 Pollo, queso crema, cebollín, envuelto en tempura.",
       "10 Pollo, pimentón, cebollín, envuelto en algo tempurizado."
@@ -1244,9 +1244,9 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      "10 Camarón furai, queso crema, cebollín, envuelto en salmón",
+      "10 Camarón Furay, queso crema, cebollín, envuelto en salmón",
       "10 Pollo, palta, cebollín, envuelto en queso crema",
-      "10 Champiñon furai, palta, cebollín, envuelto en tempura",
+      "10 Champiñon Furay, palta, cebollín, envuelto en tempura",
       "10 Kanikama, palta, envuelto en tempura",
       "10 Pollo, queso crema, cebollín, envuelto en palta",
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
@@ -1269,14 +1269,14 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas",
     "Envoltura": [
-      "10 Camarón furai, queso crema, cebollín, envuelto en palta",
+      "10 Camarón Furay, queso crema, cebollín, envuelto en palta",
       "10 Pollo, palta, cebollín, envuelto en queso crema",
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
-      "10 Champiñon furai, palta, envuelto en sésamo",
+      "10 Champiñon Furay, palta, envuelto en sésamo",
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
       "10 Kanikama, palta, envuelto en salmón",
-      "Salmón, queso crema, ciboulette, envuelto en palta",
-      "Pollo, queso crema, cebollín, envuelto en ciboulette",
+      "10 Salmón, queso crema, ciboulette, envuelto en palta",
+      "10 Pollo, queso crema, cebollín, envuelto en ciboulette",
       "10 Pollo, queso crema, envuelto en alga nori",
       "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado"
     ],
@@ -1296,7 +1296,7 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      "10 Camarón furai, palta, cebollín, envuelto en palta",
+      "10 Camarón Furay, palta, cebollín, envuelto en palta",
       "10 Pollo, queso crema, cebollín, envuelto en tempura"
     ],
     "Precio": [
@@ -1315,8 +1315,8 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      "10 Camarón furai, palta, cebollín, envuelto en palta",
-      "10 Pollo, queso creoma, cebollín, envuelto en palta",
+      "10 Camarón Furay, palta, cebollín, envuelto en palta",
+      "10 Pollo, queso crema, cebollín, envuelto en palta",
       "10 Salmón, queso crema, ciboulette, envuelto en sésamo"
     ],
     "Precio": [
@@ -1335,7 +1335,7 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Camarón Furay, palta, cebollín, envuelto en salmón",
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
       "10 Pollo, palta, cebollín, envuelto en sésamo",
       "10 Salmón, queso crema, ciboulette, envuelto en palta"
@@ -1358,7 +1358,7 @@
     "Envoltura": [
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
       "10 Camarón, queso crema, ciboulette, envuelto en tempura",
-      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Camarón Furay, palta, cebollín, envuelto en salmón",
       "10 Pollo, palta, cebollín, envuelto en sésamo",
       "10 Salmón, camarón, queso crema, envuelto en palta"
     ],
@@ -1379,7 +1379,7 @@
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
       "10 Camarón, queso crema, ciboulette, envuelto en tempura",
-      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Camarón Furay, palta, cebollín, envuelto en salmón",
       "10 Pollo, pimentón, cebollín, envuelto en alga tempurizado",
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
       "10 Salmón, queso crema, ciboulette, envuelto en sésamo",
@@ -1403,9 +1403,9 @@
     "Envoltura": [
       "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.",
       "10 Camarón, queso crema, ciboulette, envuelto en tempura",
-      "10 Camarón furai, palta, cebollín, envuelto en salmón",
-      "10 Pollo, queso crema, cebollín furai, envuelto en tempura",
-      "10 Champiñon furai, palta, envuelto en ciboulette",
+      "10 Camarón Furay, palta, cebollín, envuelto en salmón",
+      "10 Pollo, queso crema, cebollín Furay, envuelto en tempura",
+      "10 Champiñon Furay, palta, envuelto en ciboulette",
       "10 Salmón, camarón, queso crema, envuelto en palta",
       "10 Pollo, palta, cebollín, envuelto en sésamo"
     ],
@@ -1425,13 +1425,13 @@
     "Descripcion": "",
     "Tipo": "promos-mixtas-premium",
     "Envoltura": [
-      "10 Camarón furai, queso crema, ciboulette, envuelto en palta",
+      "10 Camarón Furay, queso crema, ciboulette, envuelto en palta",
       "10 Camarón, palta, cebollín, envuelto en salmón",
-      "10 Carane, queso crema, cebollín, envuelto en tempura",
+      "10 Carne, queso crema, cebollín, envuelto en tempura",
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
       "10 Pollo, palta, cebollín, envuelto en sésamo",
       "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado",
-      "Salmón, queso crema, ciboulette, envuelto en sésamo",
+      "10 Salmón, queso crema, ciboulette, envuelto en sésamo",
       "10 Salmón, camarón, queso crema, envuelto en palta"
     ],
     "Precio": [
@@ -1452,12 +1452,12 @@
     "Envoltura": [
       "10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado",
       "10 Camarón, queso crema, ciboulette, envuelto en tempura",
-      "10 Camarón furai, palta, cebollín, envuelto en salmón",
+      "10 Camarón Furay, palta, cebollín, envuelto en salmón",
       "10 Pollo, queso crema, palta, envuelto en sésamo",
       "10 Pollo, palta, cebollín, envuelto en queso crema",
       "10 Salmón, queso crema, ciboulette, envuelto en tempura",
       "10 Salmón, camarón, queso crema, envuelto en palta",
-      "10 Champiñon furai, palta, envuelto en sésamo",
+      "10 Champiñon Furay, palta, envuelto en sésamo",
       "10 Atún, queso crema, ciboulette, envuelto en tempura",
       "10 Pollo, queso crema, envuelto en alga nori"
     ],
@@ -1513,7 +1513,7 @@
     "Descripcion": "",
     "Tipo": "promos-fritas",
     "Envoltura": [
-      "10 Camarón furai, palta, cebollín, envuelto en tempura",
+      "10 Camarón Furay, palta, cebollín, envuelto en tempura",
       "10 Pollo, queso crema, cebollín, envuelto en tempura"
     ],
     "Precio": [
@@ -1532,7 +1532,7 @@
     "Descripcion": "",
     "Tipo": "promos-fritas",
     "Envoltura": [
-      "10 Camarón furai, palta, cebollín, envuelto en tempura",
+      "10 Camarón Furay, palta, cebollín, envuelto en tempura",
       "10 Kanikama, palta, cebollín, envuelto en tempura",
       "10 Pollo, queso crema, cebollín, envuelto en tempura",
       "10 Salmón, queso crema, ciboulette, envuelto en tempura"
@@ -1553,7 +1553,7 @@
     "Descripcion": "",
     "Tipo": "promos-vegetarianas",
     "Envoltura": [
-      "10 Champiñon furai, palta, cebollín, envuelto en palta",
+      "10 Champiñon Furay, palta, cebollín, envuelto en palta",
       "10 Palmito, palta, cebollín, envuelto en sésamo",
       "10 Pimentón, palta, cebollín, envuelto en alga nori"
     ],
@@ -1573,11 +1573,11 @@
     "Descripcion": "",
     "Tipo": "promos-vegetarianas",
     "Envoltura": [
-      "10 Champiñon furai, palta, envuelto en sésamo",
+      "10 Champiñon Furay, palta, envuelto en sésamo",
       "10 Palmito, palta, cebollín, envuelto en tempura",
-      "10 Champiñon furai, palta, queso crema, envuelto en ciboulette",
+      "10 Champiñon Furay, palta, queso crema, envuelto en ciboulette",
       "10 Palta, queso crema, pimentón, cebollín, envuelto en tempura",
-      "10 Palmito, champiñon furai, queso crema, envuelto en palta"
+      "10 Palmito, champiñon Furay, queso crema, envuelto en palta"
     ],
     "Precio": [
       "15.000"
@@ -1592,7 +1592,7 @@
   {
     "ID": "AR",
     "Titulo": "Armalo a tu gusto",
-    "Descripcion": "<ol><li><strong>Elige una Base</strong><ol><li>Base Sushi (Alga Nori y Arroz) <strong>$1.000</strong></li><li>Base sin arroz (Alga Nori y Queso Crema) <strong>$2.000</strong></li><li>Base Ceviche (Cebolla morada y Limón) <strong>$3.000</strong></li></ol></li><li><strong>Elige los Ingredientes</strong><em>(3 Mínimo)</em><ol><li>Light <em>[Cebollín, Ciboulette o Pimentón]</em> <strong>$400</strong></li><li>Básicos <em>[Camarón, Camaón furai, Champiñon, Champiñon furai, Pollo, Pollo Furai, Kanikama, Palmito, Palta, Queso crema, Mozzarella o Tomate]</em> <strong>$1.000</strong></li><li>Premium <em>[Atún, Pulpo o Salmón]</em> <strong>$1.500</strong></li></ol></li><li><strong>Elige la Envoltura</strong><em>(solo para rolls o sin arroz)</em><ol><li>Sésamo o Ciboulette <strong>$200</strong></li><li>Palta, Queso crema, Tempura o Masago <strong>$600</strong></li><li>Salmón, Atún o Pollo <strong>$800</strong></li></ol></li></ol>",
+    "Descripcion": "<ol><li><strong>Elige una Base</strong><ol><li>Base Sushi (Alga Nori y Arroz) <strong>$1.000</strong></li><li>Base sin arroz (Alga Nori y Queso Crema) <strong>$2.000</strong></li><li>Base Ceviche (Cebolla morada y Limón) <strong>$3.000</strong></li></ol></li><li><strong>Elige los Ingredientes</strong><em>(3 Mínimo)</em><ol><li>Light <em>[Cebollín, Ciboulette o Pimentón]</em> <strong>$400</strong></li><li>Básicos <em>[Camarón, Camaón Furay, Champiñon, Champiñon Furay, Pollo, Pollo Furay, Kanikama, Palmito, Palta, Queso crema, Mozzarella o Tomate]</em> <strong>$1.000</strong></li><li>Premium <em>[Atún, Pulpo o Salmón]</em> <strong>$1.500</strong></li></ol></li><li><strong>Elige la Envoltura</strong><em>(solo para rolls o sin arroz)</em><ol><li>Sésamo o Ciboulette <strong>$200</strong></li><li>Palta, Queso crema, Tempura o Masago <strong>$600</strong></li><li>Salmón, Atún o Pollo <strong>$800</strong></li></ol></li></ol>",
     "Tipo": "armalo-a-gusto",
     "Envoltura": [
       ""
