@@ -1,0 +1,9 @@
+[
+    { "ID":"1", "DESC":"PROMO 1", "URL":"images/sushi/slider-promo/1.png"},
+    { "ID":"2", "DESC":"PROMO 2", "URL":"images/sushi/slider-promo/2.png"},
+    { "ID":"3", "DESC":"PROMO 3", "URL":"images/sushi/slider-promo/3.png"},
+    { "ID":"4", "DESC":"PROMO 4", "URL":"images/sushi/slider-promo/4.png"},
+    { "ID":"5", "DESC":"PROMO 5", "URL":"images/sushi/slider-promo/5.png"},
+    { "ID":"6", "DESC":"PROMO 6", "URL":"images/sushi/slider-promo/40fritasinsta.jpg"},
+    { "ID":"7", "DESC":"PROMO 7", "URL":"images/sushi/slider-promo/50detalle.jpg"}
+]
