@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+<!--
+  Akysushi - Carta de Productos
+  Desarrollado por: Fernando Poblete
+  Fecha: Enero 2026
+-->
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Nuestra Carta | Akysushi</title>
+  <meta name="description" content="Descubre nuestra variedad de rolls, especialidades y promociones">
+  
+  <!-- Favicons -->
+  <link href="assets/images/brand/akysushi-favicon.png" rel="icon">
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Vendor CSS (CDN) -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css">
+  
+  <!-- CSS Principal Akysushi -->
+  <link href="assets/styles/akysushi-main.css?v=2026010932" rel="stylesheet">
+  
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G3R6KHB2T2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-G3R6KHB2T2');
+  </script>
+</head>
+
+<body>
+  
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="header-container">
+      <!-- Logo -->
+      <div class="logo">
+        <a href="index.html">
+          <img src="assets/images/brand/akysushi-logo.png" alt="Akysushi Logo">
+        </a>
+      </div>
+
+      <!-- Navbar -->
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link" href="index.html">Inicio</a></li>
+          <li><a class="nav-link" href="index.html#promociones">Promociones</a></li>
+          <li><a class="nav-link active" href="akysushi-menu.html">Carta</a></li>
+          <li><a class="nav-link" href="index.html#contact">Contacto</a></li>
+          <li><a class="nav-link" href="akysushi-delivery.html">Mapa de Reparto</a></li>
+        </ul>
+        <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+          <i class="bi bi-list"></i>
+        </button>
+      </nav>
+
+      <!-- Social Links -->
+      <div class="header-social-links">
+        <a href="https://www.facebook.com/akysushi" target="_blank" rel="noopener" aria-label="Facebook">
+          <i class="bi bi-facebook"></i>
+        </a>
+        <a href="https://www.instagram.com/akysushi" target="_blank" rel="noopener" aria-label="Instagram">
+          <i class="bi bi-instagram"></i>
+        </a>
+        <a href="https://wa.me/56912345678" target="_blank" rel="noopener" aria-label="WhatsApp">
+          <i class="bi bi-whatsapp"></i>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======= Main Content ======= -->
+  <main id="main">
+    
+    <!-- Título de sección -->
+    <section class="page-title">
+      <div class="container">
+        <h1>Nuestra Carta</h1>
+        <p>Explora nuestra variedad de rolls y especialidades</p>
+      </div>
+    </section>
+
+    <!-- Carta con filtros -->
+    <section class="carta-section">
+      <div class="container-fluid">
+        <div class="carta-wrapper">
+          
+          <!-- Sidebar de filtros -->
+          <aside class="filters-sidebar">
+            <h3>Categorías</h3>
+            <div class="filter-buttons">
+              <button class="filter-btn active" data-filter="all">
+                <i class="bi bi-grid-3x3"></i>
+                <span>Ver Todos</span>
+              </button>
+              <button class="filter-btn" data-filter="clasicos">
+                <img src="assets/images/products/categories/rolls.jfif" alt="Rolls Clásicos">
+                <span>Rolls Clásicos</span>
+              </button>
+              <button class="filter-btn" data-filter="nigiri">
+                <img src="assets/images/products/categories/hosomaki.jfif" alt="Nigiri & Sashimi">
+                <span>Nigiri & Sashimi</span>
+              </button>
+              <button class="filter-btn" data-filter="especialidades">
+                <img src="assets/images/products/categories/rolls.jfif" alt="Especialidades">
+                <span>Especialidades</span>
+              </button>
+              <button class="filter-btn" data-filter="promociones">
+                <img src="assets/images/products/categories/promos-vegetarianas.jfif" alt="Promociones">
+                <span>Promociones</span>
+              </button>
+            </div>
+          </aside>
+
+          <!-- Productos -->
+          <div class="products-area">
+            <div class="products-grid" id="productsGrid">
+              <!-- Los productos se cargarán aquí dinámicamente -->
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-content">
+      <div class="copyright">
+        &copy; 2026 <strong>Akysushi</strong>. Todos los derechos reservados.
+      </div>
+    </div>
+  </footer>
+
+  <!-- Back to top -->
+  <a href="#" class="back-to-top" aria-label="Volver arriba">
+    <i class="bi bi-arrow-up-short"></i>
+  </a>
+
+  <!-- Scripts Akysushi -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+  <script src="assets/scripts/akysushi-core.js"></script>
+  <script src="assets/scripts/akysushi-menu.js"></script>
+
+</body>
+</html>
